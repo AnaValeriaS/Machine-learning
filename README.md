@@ -1,2 +1,2 @@
 # Machine-learning
-Case studies for machine learnin
+Case studies for machine learning
